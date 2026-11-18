@@ -145,34 +145,34 @@
         <value>Nom du clip</value>
     </data>
     <data name="ClipNamePlaceholder" xml:space="preserve">
-        <value>Enter a name...</value>
+        <value>Entre un nom...</value>
     </data>
     <data name="OutputVolumeLabel" xml:space="preserve">
-        <value>Output volume</value>
+        <value>Volume de sortie</value>
     </data>
     <data name="ColumnsPlaceholder" xml:space="preserve">
-        <value>Columns</value>
+        <value>Colonnes</value>
     </data>
     <data name="CopyToClipboard" xml:space="preserve">
-        <value>Copy to clipboard</value>
+        <value>Copier dans le presse-papiers</value>
     </data>
     <data name="DeleteSoundClipButton" xml:space="preserve">
-        <value>Delete</value>
+        <value>Supprimer</value>
     </data>
     <data name="DeleteSoundClipConfirmationPrompt" xml:space="preserve">
-        <value>Are you sure you want to delete the Sound Clip "{0}"?</value>
+        <value>Voulez-vous vraiment supprimer le clip audio "{0}"?</value>
     </data>
     <data name="DeleteSoundClipConfirmationTitle" xml:space="preserve">
-        <value>Confirm Deletion</value>
+        <value>Confirmer la suppression</value>
     </data>
     <data name="DismissWindow" xml:space="preserve">
-        <value>Dismiss</value>
+        <value>Fermer</value>
     </data>
     <data name="EditSoundClipTitle" xml:space="preserve">
-        <value>Edit Sound Clip</value>
+        <value>Édite le clip audio</value>
     </data>
     <data name="EditSoundClipTooltip" xml:space="preserve">
-        <value>Edit sound clip</value>
+        <value>Édite le clip audio</value>
     </data>
     <data name="EmptyTilePrompt" xml:space="preserve">
         <value>Drag a Sound Clip here to bind it!</value>
@@ -193,7 +193,7 @@
         <value>The following file cannot be found: "{0}"</value>
     </data>
     <data name="FilePathPlaceholder" xml:space="preserve">
-        <value>File path...</value>
+        <value>Chemin d'accès...</value>
     </data>
     <data name="GlobalSettingsTitle" xml:space="preserve">
         <value>Preferences</value>
@@ -226,7 +226,7 @@
         <value>The output device "{0}" is missing and cannot be used for playback!</value>
     </data>
     <data name="NewSoundClip" xml:space="preserve">
-        <value>New sound clip</value>
+        <value>Nouveau clip audio</value>
     </data>
     <data name="NewVersionAvailable" xml:space="preserve">
         <value>There is a new version available</value>
@@ -253,7 +253,7 @@
         <value>Rows</value>
     </data>
     <data name="SaveButton" xml:space="preserve">
-        <value>Save</value>
+        <value>Enregistrer</value>
     </data>
     <data name="SaveButtonDisabledTooltip" xml:space="preserve">
         <value>Please enter a Sound Clip name</value>
@@ -304,7 +304,7 @@
         <value>Volume</value>
     </data>
     <data name="LanguageLabel" xml:space="preserve">
-        <value>Language</value>
+        <value>Langue</value>
     </data>
     <data name="GlobalOutputDefaults" xml:space="preserve">
         <value>Global output settings</value>
